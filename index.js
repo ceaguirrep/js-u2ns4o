@@ -20,3 +20,4 @@ if (respuesta_ws.Products[0].Assets[0].MediaType == 'Copper'){
   var serial = respuesta_ws.Equipments[0].SerialNumber
   console.log("serial: "+serial);
 }
+
